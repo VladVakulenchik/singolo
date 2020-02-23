@@ -1,3 +1,5 @@
-.simple-img {
-    text-align: center;
+.image-flex {
+  display:flex;
+  align-items: center;
+  justify-content: center;
 }
